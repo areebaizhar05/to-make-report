@@ -1,0 +1,4 @@
+Task B is done in task C directly so were adding assembly file of task c in it
+(the led display in the task c and the summision series implement jal, bne and lui)
+
+For all tasks, our singel cycle processor works complete so the fpga top which is named as task_a_fpga_top.v is actually same for all(once i renamed it i did't change it)

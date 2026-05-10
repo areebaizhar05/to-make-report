@@ -1,0 +1,2 @@
+Task c.s is the original working. for the fpga. the .cp is created to cater
+the tb simulation bench because the clock wasn't showing all signals.
